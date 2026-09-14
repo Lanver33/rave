@@ -1,0 +1,9 @@
+[package]
+name = "rave_lib"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+hound = "3.5.1"
+rand = "0.10.2"
+uom = "0.38.0"

@@ -1,0 +1,8 @@
+[package]
+name = "rave"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rave_lib = { path = "../rave_lib" }
+uom = "0.38.0"
